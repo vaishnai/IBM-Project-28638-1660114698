@@ -14,6 +14,8 @@ Artificial intelligence
               MOHAMED FAHAD B
               
               J VAISHNAVI
+
+![WhatsApp Image 2022-11-18 at 6 28 11 PM (1)](https://user-images.githubusercontent.com/113189286/202713959-4fed9383-fa2e-4c62-9750-c37e21cf0c3d.jpeg)
               
 # 📜Project Description
 The project deals on building an application which helps the specially challenged people to communicate between them and the common people. Communication between a person with hearing/speech impairment and a normal person has always been a challenging task. This application tries to reduce the barrier of communication by developing an assistive application for specially challenged people.
