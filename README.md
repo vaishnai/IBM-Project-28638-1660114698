@@ -4,9 +4,10 @@ Real-Time Communication System Powered by AI for Specially Abled
 # ⚙Technology : 
 Artificial intelligence
 # Team ID: PNT2022TMID45469
-👨‍👩‍👧‍👦Team Leader- USHA KUMARI
+# 👩‍✈️Team Leader- 
+                 USHA KUMARI
 
-Team Members- 
+# 👨‍👨‍👦Team Members- 
               
               G KAVIYA
               
